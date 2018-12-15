@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+appMagic
+</name>
+</assembly>
+<members>
+<member name="T:appMagic.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:appMagic.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:appMagic.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.COMPRAVENTADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.REGISTRODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.COMPRAVENTARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.REGISTRORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.COMPRAVENTARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSet.REGISTRORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSetTableAdapters.COMPRAVENTATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSetTableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSetTableAdapters.REGISTROTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(appMagic.BASE1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(appMagic.BASE1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(appMagic.BASE1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.UpdateAll(appMagic.BASE1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:appMagic.BASE1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\bin\Debug\appMagic.exe.config
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.COMPRA_VENTA.resources
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.Form1.resources
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.Resources.resources
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.PRODUCTOS.resources
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.REGISTRO.resources
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\bin\Debug\BASE1.accdb
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\bin\Debug\appMagic.exe
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\bin\Debug\appMagic.pdb
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\bin\Debug\appMagic.xml
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.exe
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.xml
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.pdb
+C:\Users\Estudiante\Desktop\robin app\appMagic\appMagic\obj\Debug\appMagic.factura.resources
